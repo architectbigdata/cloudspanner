@@ -1,5 +1,6 @@
 import json
 import random as r
+
 from google.cloud import spanner
 
 def generate_uuid():
